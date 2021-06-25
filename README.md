@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Navneet Chauhan, Currently working as an Engineer-2 @ Quark Software Inc.
+- 👋 Hi, I’m Navneet, Currently working as an Engineer-2 @ Quark Software Inc.
 - 👀 I’m interested in Java 8, XML, XSLT and JavaScript. 
 - 🌱 I’m currently learning Multithreading in java, Spring boot and microservices , and advanced JS concepts like closures promises async await
 
